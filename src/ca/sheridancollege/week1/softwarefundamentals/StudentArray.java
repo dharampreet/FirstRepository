@@ -20,6 +20,7 @@ public class StudentArray
         studentList[2] = new StudentDemo("3", "Pam Beasley");
         studentList[3] = new StudentDemo("4", "Dwight Schrute");
         studentList[4] = new StudentDemo("5", "Toby Flendersen");
+        System.out.println("Hello World");
         
         for(int i=0; i<studentList.length; i++)
         {
