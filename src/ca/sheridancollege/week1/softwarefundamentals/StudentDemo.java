@@ -5,7 +5,7 @@
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
-/**
+/** Dharampreet Singh
  * A model class to model Student Objects
  * @author Ali Hassan, 2019
  */
